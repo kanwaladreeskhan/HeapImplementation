@@ -1,0 +1,7 @@
+C:\Users\FC Technologies\Documents\Visual Studio 2022\MaxHeap\MaxHeap\bin\Debug\MaxHeap.exe.config
+C:\Users\FC Technologies\Documents\Visual Studio 2022\MaxHeap\MaxHeap\bin\Debug\MaxHeap.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\MaxHeap\MaxHeap\bin\Debug\MaxHeap.pdb
+C:\Users\FC Technologies\Documents\Visual Studio 2022\MaxHeap\MaxHeap\obj\Debug\MaxHeap.csproj.AssemblyReference.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\MaxHeap\MaxHeap\obj\Debug\MaxHeap.csproj.CoreCompileInputs.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\MaxHeap\MaxHeap\obj\Debug\MaxHeap.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\MaxHeap\MaxHeap\obj\Debug\MaxHeap.pdb
